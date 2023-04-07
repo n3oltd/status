@@ -7,11 +7,11 @@ sites:
 
 status-website:
   cname: status.n3o.ltd
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/n3oltd/status/master/static/n3o-logo.svg
   name: N3O Status
   theme: light
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: Here you'll find details of any upcoming maintenance or incidents in progress.
+  introMessage:
   navbar:
     - title: Status
       href: /
