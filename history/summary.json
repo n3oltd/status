@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 640,
-    "timeDay": 640,
-    "timeWeek": 640,
-    "timeMonth": 640,
-    "timeYear": 640,
+    "time": 516,
+    "timeDay": 516,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Forms",
-    "url": "https://n3oltd.n3o.cloud",
-    "icon": "https://icons.duckduckgo.com/ip3/n3oltd.n3o.cloud.ico",
-    "slug": "forms",
-    "status": "down",
-    "uptime": "35.43%",
-    "uptimeDay": "35.43%",
-    "uptimeWeek": "35.43%",
-    "uptimeMonth": "35.43%",
-    "uptimeYear": "35.43%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-04-07": 0
-    }
   }
 ]
