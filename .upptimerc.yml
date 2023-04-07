@@ -20,3 +20,12 @@ status-website:
       
 i18n:
   footer: For assistance please contact <a href="mailto:support@n3o.ltd">support@n3o.ltd</a>
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/15 * * * *"
