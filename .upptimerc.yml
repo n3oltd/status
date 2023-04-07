@@ -4,8 +4,6 @@ repo: status
 sites:
   - name: Engage
     url: https://n3o.cloud/eu1/enage
-  - name: Forms
-    url: https://n3oltd.n3o.cloud
 
 status-website:
   cname: status.n3o.ltd
@@ -17,5 +15,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: N3O
-      href: https://n3o.ltd
+    - title: N3O Support
+      href: https://support.n3o.ltd
+      
+i18n:
+  footer: For assistance please contact support@n3o.ltd
