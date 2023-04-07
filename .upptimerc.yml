@@ -19,4 +19,4 @@ status-website:
       href: https://support.n3o.ltd
       
 i18n:
-  footer: For assistance please contact support@n3o.ltd
+  footer: For assistance please contact <a href="mailto:support@n3o.ltd">support@n3o.ltd</a>
