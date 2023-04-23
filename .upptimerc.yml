@@ -10,10 +10,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/n3oltd/status/master/static/n3o-logo.svg
   name: N3O Status
   theme: light
-  css: "nav { display: none; }"
+  css: "body { padding-top: 2rem; } nav { display: none; }"
       
 i18n:
-  footer: For assistance please contact <a href="mailto:support@n3o.ltd">support@n3o.ltd</a>
+  footer: All times are in UTC
 
 workflowSchedule:
   graphs: "0 0 * * *"
