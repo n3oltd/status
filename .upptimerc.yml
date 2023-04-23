@@ -11,12 +11,6 @@ status-website:
   name: N3O Status
   theme: light
   introTitle: Here you'll find details of any upcoming maintenance or incidents in progress.
-  introMessage:
-  navbar:
-    - title: Status
-      href: /
-    - title: N3O Support
-      href: https://support.n3o.ltd
       
 i18n:
   footer: For assistance please contact <a href="mailto:support@n3o.ltd">support@n3o.ltd</a>
