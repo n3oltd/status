@@ -10,7 +10,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/n3oltd/status/master/static/n3o-logo.svg
   name: N3O Status
   theme: light
-  css: "body { padding-top: 2rem; } nav { display: none; }"
+  css: "body { margin-top: 2rem; } nav { display: none; }"
       
 i18n:
   footer: All times are in UTC
