@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/n3o.cloud.ico",
     "slug": "engage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 590,
-    "timeDay": 1147,
-    "timeWeek": 845,
-    "timeMonth": 674,
-    "timeYear": 590,
-    "dailyMinutesDown": {
-      "2023-06-27": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 588,
+    "timeDay": 1051,
+    "timeWeek": 847,
+    "timeMonth": 663,
+    "timeYear": 588,
+    "dailyMinutesDown": {}
   }
 ]
