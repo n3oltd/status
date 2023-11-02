@@ -4,18 +4,19 @@
     "url": "https://n3o.cloud/eu1/enage",
     "icon": "https://icons.duckduckgo.com/ip3/n3o.cloud.ico",
     "slug": "engage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 556,
-    "timeDay": 586,
-    "timeWeek": 556,
-    "timeMonth": 504,
+    "timeDay": 610,
+    "timeWeek": 566,
+    "timeMonth": 508,
     "timeYear": 556,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-07-26": 31
     }
   }
