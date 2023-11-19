@@ -6,9 +6,9 @@
     "slug": "engage",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 551,
     "timeDay": 426,
@@ -16,7 +16,7 @@
     "timeMonth": 502,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2023-11-19": 0,
+      "2023-11-19": 3,
       "2023-11-02": 20,
       "2023-07-26": 31
     }
