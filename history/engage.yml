@@ -1,7 +1,7 @@
 url: https://n3o.cloud/eu1/engage
-status: up
-code: 200
-responseTime: 412
-lastUpdated: 2025-01-14T23:05:54.727Z
+status: down
+code: 502
+responseTime: 593
+lastUpdated: 2025-01-15T00:09:03.395Z
 startTime: 2023-04-07T13:28:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
