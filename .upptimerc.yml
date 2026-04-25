@@ -7,7 +7,7 @@ sites:
 
 status-website:
   cname: status.n3o.ltd
-  logoUrl: https://raw.githubusercontent.com/n3oltd/status/master/static/n3o-logo.svg
+  logoUrl: https://raw.githubusercontent.com/n3oltd/status/main/static/n3o-logo.svg
   name: N3O Status
   theme: light
   css: "body { margin-top: 2rem; } nav { display: none; }"
